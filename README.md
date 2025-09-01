@@ -32,4 +32,9 @@ This dashboard enables organizations to:
 - Improve workforce planning and productivity tracking
 
 
+## Dataset
+
+The dashboard is based on attendance records in the following Dataset.  
+- Dataset used: [Download Here]([link-to-dataset.csv](https://github.com/NusaibaZaman/Workplace-Attendance-Analysis/blob/main/Dataset%20for%20Workplace%20Attendance%20Analysis.xlsx))  
+
 

@@ -29,6 +29,6 @@ This dashboard enables organizations to:
 
 ## Dashboard Preview
 
-![Workplace Attendance Dashboard](https://github.com/NusaibaZaman/Workplace-Attendance-Analysis/blob/main/Workplace%20Attendance%20Analysis.pdf)
+![Workplace Attendance Dashboard](https://github.com/NusaibaZaman/Workplace-Attendance-Analysis/blob/main/Workplace%20Attendance%20Analysis.png)
 
 

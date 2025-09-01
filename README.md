@@ -27,6 +27,8 @@ This dashboard enables organizations to:
 - Support HR decision making with data driven insights
 - Improve workforce planning and productivity tracking
 
+## Dashboard Preview
 
+![Workplace Attendance Dashboard](https://github.com/NusaibaZaman/Workplace-Attendance-Analysis/blob/main/Workplace%20Attendance%20Analysis.pdf)
 
 

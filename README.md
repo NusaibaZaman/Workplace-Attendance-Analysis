@@ -2,6 +2,10 @@
 
 This project presents a Power BI dashboard designed to monitor and analyze employee attendance. The dashboard provides insights into presence, work from home (WFH), and sick leave (SL) trends, enabling human resources and management teams to make data driven decisions regarding workforce planning and productivity.
 
+## Dashboard Preview
+
+![Workplace Attendance Dashboard](https://github.com/NusaibaZaman/Workplace-Attendance-Analysis/blob/main/Workplace%20Attendance%20Analysis.png)
+
 ## Overview
 
 The Workplace Attendance Analysis dashboard transforms attendance records into meaningful and interactive insights. It offers both high level summaries and detailed employee level analysis. The report highlights how attendance varies across months, weekdays and individual employees.
@@ -27,8 +31,5 @@ This dashboard enables organizations to:
 - Support HR decision making with data driven insights
 - Improve workforce planning and productivity tracking
 
-## Dashboard Preview
-
-![Workplace Attendance Dashboard](https://github.com/NusaibaZaman/Workplace-Attendance-Analysis/blob/main/Workplace%20Attendance%20Analysis.png)
 
 

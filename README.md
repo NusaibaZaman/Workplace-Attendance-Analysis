@@ -17,8 +17,8 @@ The Workplace Attendance Analysis dashboard transforms attendance records into m
   - Work From Home Rate: 10.00%
   - Sick Leave Rate: 1.20%
 - **Monthly Trends** – Variations in presence, WFH, and SL rates from April to June 2022.
-- **Weekday Patterns** – Attendance behavior across different weekdays, including presence, WFH, and sick leave rates.
-- **Employee Drill-Down** – Individual Employee attendance metrics to compare and identify irregularities.
+- **Weekday Patterns** – Attendance behavior across different weekdays, including presence, WFH and sick leave rates.
+- **Employee Drill-Down** – Individual Employee attendance metrics to compare and identify inconsistencies.
 - **Visualizations** – Line charts, bar charts and tables for both trend and detailed analysis.
 
 
